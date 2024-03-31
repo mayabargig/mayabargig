@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mayabargig
 - 👀 I’m interested in AI and MEDIC
 - 🌱 I’m currently finished FULLSTACK study
-- 💞️ I’m looking to collaborate on DEVELOPER SOFTWARE
-- 📫 How to reach me 
+- 💞️ Love learning new things.
+- 📫 How to reach me - mayabargig@gmail.com
 
 <!---
 mayabargig/mayabargig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
