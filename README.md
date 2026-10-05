@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @mayabargig
-- 👀 I’m interested in AI and MEDIC
-- 🌱 I’m currently finished FULLSTACK study
-- 💞️ Love learning new things.
-- 📫 How to reach me - mayabargig@gmail.com
+# Hi, I'm Maya 👋
 
-<!---
-mayabargig/mayabargig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Computer Science student and Junior Software Developer with hands-on experience building full-stack, Android, Java, and cybersecurity projects.
+
+## 👩‍💻 About Me
+
+* 🎓 Computer Science student at HIT
+* 💻 Full-Stack Development graduate
+* 🚀 Building projects with React, Node.js, Java, Python, and Android
+* 🔍 Interested in software development, cybersecurity, and data
+* 💼 Currently seeking a Junior Software Developer or Full-Stack Developer position
